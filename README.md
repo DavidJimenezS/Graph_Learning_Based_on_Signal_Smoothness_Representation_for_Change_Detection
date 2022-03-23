@@ -6,7 +6,7 @@
 
 --------------------Available datasets and Parameters---------------
 
-   dataset | Vx = Vy | K | Alpha |
+   Dataset | Vx = Vy | K | Alpha |
    --------|:-------:|:-:|:-----:|
    Mulargia_dataset    |      11       |      1464     |   0.1     |
    Omodeo_dataset      |      20       |      174      |   0.109   |
@@ -25,9 +25,9 @@
 
 These datasets are part of the following works:
 
-"[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
+* "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
 
-Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection in IEEE TGRS (currently under review).
+* Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection in IEEE TGRS (currently under review).
 
 Please if you use the datasets and the codes cite our work as:<br/>
 
