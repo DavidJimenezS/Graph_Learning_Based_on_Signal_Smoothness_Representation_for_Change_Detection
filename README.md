@@ -47,7 +47,7 @@ Please if you use the datasets and the codes cite our work as:<br/>
 
 ## Requirements
 
-In order to run the code, you will need the following toolboxes:
+In order to run the code, you will need to download and add to the path the following toolboxes:
 
 * GMMSP [toolbox](https://github.com/ahban/GMMSP-superpixel) for superpixel segmentation 
 * Graph signal processing [toolbox](https://epfl-lts2.github.io/gspbox-html) for graph smoothness prior. 
