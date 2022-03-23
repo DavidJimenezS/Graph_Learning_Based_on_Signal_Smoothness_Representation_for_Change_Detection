@@ -6,7 +6,8 @@
 
 --------------------Available datasets and Parameters---------------
 
-       dataset         |    Vx = Vy    |       K       |   Alpha   |
+   dataset | Vx = Vy | K | Alpha |
+   --------|:-------:|:-:|:-----:|
    Mulargia_dataset    |      11       |      1464     |   0.1     |
    Omodeo_dataset      |      20       |      174      |   0.109   |
    Alaska_dataset      |      11       |      1479     |   0.013   |
