@@ -91,13 +91,15 @@ if nargin < 3
     RGB_before = [];
     RGB_after = [];
     
+elseif nargin < 4
+    
+    RGB_after = [];   
+    
 end
 
 %% Normalization of the data
 
 %n = num_data(i);
-
-load(dataset);
 
 before = im2double(before);
 after = im2double(after);
@@ -132,7 +134,7 @@ end
 %% False RGB image
 
 [rowOrg , colOrg, ch] = size(before);
-[~ , ~, ch_after] = size(before);
+[~ , ~, ch_after] = size(after);
 
 compositive_image = zeros(rowOrg, colOrg, 3);
 compositive_image(:,:,1) = RGB_before_gray;
