@@ -27,11 +27,11 @@ This repository is a proposed approach based on Graph Signal processing for chan
 
 These datasets are part of the following works:
 
-* "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
-
 * Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection in IEEE TGRS (currently under review).
 
-Please if you use the datasets and the codes cite our work as:<br/>
+* "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
+
+Please if you use the datasets and the codes cite our works as:<br/>
 
 @article{&nbsp;&nbsp;&nbsp;jimenez2020graph,<br/>
          &nbsp;&nbsp;&nbsp;title={Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops},<br/>
