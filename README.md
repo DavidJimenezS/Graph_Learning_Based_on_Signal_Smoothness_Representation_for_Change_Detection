@@ -52,3 +52,7 @@ In order to run the code, you will need to download and add to the path the foll
 * GMMSP [toolbox](https://github.com/ahban/GMMSP-superpixel) for superpixel segmentation 
 * Graph signal processing [toolbox](https://epfl-lts2.github.io/gspbox-html) for graph smoothness prior. 
 * Unlocbox [toolbox](https://github.com/epfl-lts2/unlocbox) for graph learning optimization.
+
+### Canada and California datasets
+
+Please read the data [readme](https://github.com/DavidJimenezS/Graph_Learning_Based_on_Signal_Smoothness_Representation_for_Change_Detection/tree/main/Data) file to download these datasets.
