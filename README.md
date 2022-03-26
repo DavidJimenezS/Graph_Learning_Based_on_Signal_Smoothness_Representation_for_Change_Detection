@@ -6,7 +6,7 @@ This repository is a proposed approach based on Graph Signal processing for chan
 
 ## Datasets
 
-----------Available datasets and Parameters----------
+------------Available datasets and Parameters------------
 
    Dataset | Vx = Vy | K | Alpha |
    --------|:-------:|:-:|:-----:|
