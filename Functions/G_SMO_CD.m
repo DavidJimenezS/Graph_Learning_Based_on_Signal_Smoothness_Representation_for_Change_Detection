@@ -208,12 +208,15 @@ labels = imbinarize(labels);
 
 %Retrieving the change_map in the original resolution
 g = zeros(length(label),1);
-for j=1:NumClases
-    tmp = find(label == j);
-    if labels(j)==1
-        g(tmp)=1;
-    end
-    
+number_of_changes = find(labels);
+n2 = length(number_of_changes);
+
+for j=1:n2
+
+    %if labels(number_of_changes(j))==1
+    g(label == number_of_changes(j))= 1;
+    %end
+
 end
 %CH=reshape(g,rowOrg,colOrg);
 Change_Map = reshape(g,rowOrg,colOrg);
