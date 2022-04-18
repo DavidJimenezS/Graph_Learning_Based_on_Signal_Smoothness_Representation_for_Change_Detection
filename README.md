@@ -29,7 +29,7 @@ These datasets are part of the following works:
 
 * "[Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection](http://dx.doi.org/10.1109/TGRS.2022.3168126)" published in IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 
-* "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI.
+* "[Graph-Based Data Fusion Applied to: Change Detection and Biomass Estimation in Rice Crops](https://www.mdpi.com/2072-4292/12/17/2683)" published in MDPI Remote Sensing.
 
 Please if you use the datasets and the codes cite our works as:<br/>
 
