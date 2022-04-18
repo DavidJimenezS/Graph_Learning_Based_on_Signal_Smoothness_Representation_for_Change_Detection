@@ -3,8 +3,8 @@ clear all;
 close all;
 
 
-%Make sure the GMMSP and the GSPbox are in the same folder otherwise add
-%them to the path
+%Make sure the GMMSP, the GSPbox, and the Unlocbox toolboxes are in the same folder of the this script (main.m)
+% otherwise add them to the path
 addpath(genpath(pwd));
 
 
