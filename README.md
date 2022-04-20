@@ -33,8 +33,8 @@ These datasets are part of the following works:
 
 Please if you use the datasets and the codes cite our works as:<br/>
 
-@article{&nbsp;&nbsp;&nbsp;jimenez2022graph,<br/>,
-         &nbsp;&nbsp;&nbsp;author={Jimenez-Sierra, David Alejandro and Quintero-Olaya, David Alfredo and Alvear-Muñnoz, Juan Carlos            and Benítez-Restrepo, Hernán Darío and Florez-Ospina, Juan Felipe and Chanussot, Jocelyn},<br/>  
+@article{&nbsp;&nbsp;&nbsp;jimenez2022graph,<br/>
+         &nbsp;&nbsp;&nbsp;author={Jimenez-Sierra, David Alejandro and Quintero-Olaya, David Alfredo and Alvear-Mu\~{n}oz, Juan                Carlos and Ben{\'\i}tez-Restrepo, Hern{\'a}n Dar{\'\i}o and Florez-Ospina, Juan Felipe and Chanussot, Jocelyn},<br/>  
          &nbsp;&nbsp;&nbsp;journal={IEEE Transactions on Geoscience and Remote Sensing},<br/>
          &nbsp;&nbsp;&nbsp;title={Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change             Detection},<br/>   
          &nbsp;&nbsp;&nbsp;year={2022},<br/>
