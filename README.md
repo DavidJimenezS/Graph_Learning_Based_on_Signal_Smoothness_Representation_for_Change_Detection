@@ -2,7 +2,7 @@
 
 This repository is a proposed approach based on Graph Signal processing for change detection under the folllowing name:
 
-* Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection in IEEE TGRS.
+* "[Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection](http://dx.doi.org/10.1109/TGRS.2022.3168126)" published in IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 
 ## Datasets
 
