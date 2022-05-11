@@ -38,9 +38,9 @@ Please if you use the datasets and the codes cite our works as:<br/>
 &nbsp;&nbsp;&nbsp;journal={IEEE Transactions on Geoscience and Remote Sensing},<br/>
 &nbsp;&nbsp;&nbsp;title={Graph Learning Based on Signal Smoothness Representation for Homogeneous and Heterogeneous Change Detection},<br/>
 &nbsp;&nbsp;&nbsp;year={2022},<br/>
-&nbsp;&nbsp;&nbsp;volume={},<br/>
+&nbsp;&nbsp;&nbsp;volume={60},<br/>
 &nbsp;&nbsp;&nbsp;number={},<br/>
-&nbsp;&nbsp;&nbsp;pages={1-1},<br/>
+&nbsp;&nbsp;&nbsp;pages={1-16},<br/>
 &nbsp;&nbsp;&nbsp;doi={10.1109/TGRS.2022.3168126}<br/>
 }
 
