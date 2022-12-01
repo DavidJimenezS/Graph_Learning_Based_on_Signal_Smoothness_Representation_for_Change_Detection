@@ -68,3 +68,6 @@ In order to run the code, you will need to download and add to the path the foll
 ### Canada and California datasets
 
 Please read the data [readme](https://github.com/DavidJimenezS/Graph_Learning_Based_on_Signal_Smoothness_Representation_for_Change_Detection/tree/main/Data) file to download these datasets.
+
+## PYTHON VERSION AVAILABLE
+Now you can have access to the Python version of this code in the Juan Florez-Ospina [Github](https://github.com/jfflorez/Graph-based-methods-for-change-detection-in-remote-sensing-images)
